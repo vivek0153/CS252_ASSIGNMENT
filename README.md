@@ -22,5 +22,5 @@ the parent thread will output the values once the workers have exited.
 * The output is displayed on the screen
 ***
 **Outputs**
-
+![Image text]()
 
