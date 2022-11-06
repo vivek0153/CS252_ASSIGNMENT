@@ -22,5 +22,6 @@ the parent thread will output the values once the workers have exited.
 * The output is displayed on the screen
 ***
 **Outputs**
+<br/>
 ![Image text](https://github.com/vivek0153/CS252_ASSIGNMENT/blob/main/q1.jpg)
 
