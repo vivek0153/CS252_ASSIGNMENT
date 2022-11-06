@@ -29,11 +29,12 @@ the parent thread will output the values once the workers have exited.
 ***
 ***QUESTION 2***
 <br/>
+<b>3.21</b>
 The Collatz conjecture concerns what happens when we take any positive integer n and apply the following algorithm:
 <br/>
 n =
 <br/>
-{ n∕2, if n is even
+{ n ∕ 2, if n is even
 <br/>
 {3 × n + 1, if n is odd
 <br/>The conjecture states that when this algorithm is continually applied,
@@ -52,6 +53,7 @@ integer is passed on the command line
 ***
 **Outputs**
 <br/>
+![Image text](https://github.com/vivek0153/CS252_ASSIGNMENT/blob/main/q1.jpg)
 <br />**Steps to run the program**
 <br />
 * Open the terminal and navigate to the directory where the file q2.c is present.
