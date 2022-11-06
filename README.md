@@ -60,4 +60,4 @@ integer is passed on the command line
 ***
 **Outputs**
 <br/>
-![Image text](https://github.com/vivek0153/CS252_ASSIGNMENT/blob/main/q2.jpg)
+![Image text]()
