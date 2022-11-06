@@ -1,7 +1,7 @@
 # CS252_ASSIGNMENT
 
 **QUESTION 1:**
-Write a multithreaded program that calculates various statistical values
+<br />Write a multithreaded program that calculates various statistical values
 for a list of numbers. This program will be passed a series of numbers
 on the command line and will then create three separate worker threads.
 One thread will determine the average of the numbers, the second will
@@ -14,4 +14,5 @@ determine the maximum value, and the third will determine the minimum value. For
 <br />The variables representing the average, minimum, and maximum values
 will be stored globally. The worker threads will set these values, and
 the parent thread will output the values once the workers have exited.
+
 
