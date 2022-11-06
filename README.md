@@ -15,6 +15,6 @@ determine the maximum value, and the third will determine the minimum value. For
 will be stored globally. The worker threads will set these values, and
 the parent thread will output the values once the workers have exited.
 **Steps to run the program**
-*Open the terminal and navigate to the directory where the file q1.c is present.
+<br />*Open the terminal and navigate to the directory where the file q1.c is present.
 
 
