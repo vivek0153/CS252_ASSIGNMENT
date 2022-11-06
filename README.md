@@ -29,10 +29,13 @@ the parent thread will output the values once the workers have exited.
 ***
 ***QUESTION 2***
 <br/>
-The Collatz conjecture concerns what happens when we take any positive integer n and apply the following algorithm:
+The Collatz conjecture concerns what happens when we take any positive integer n and apply the following algorithm:
+<br/>
 n =
+<br/>
 { n∕2, if n is even
-3 × n + 1, if n is odd
+<br/>
+{3 × n + 1, if n is odd
 <br/>The conjecture states that when this algorithm is continually applied,
 all positive integers will eventually reach 1. For example, if n = 35, the
 sequence is
@@ -46,3 +49,12 @@ necessary for the child to output the sequence. Have the parent invoke
 the wait() call to wait for the child process to complete before exiting
 the program. Perform necessary error checking to ensure that a positive
 integer is passed on the command line
+***
+**Outputs**
+<br/>
+<br />**Steps to run the program**
+<br />
+* Open the terminal and navigate to the directory where the file q2.c is present.
+* Then enter ./a.out (executable file).
+* Enter the details which are asked in terminal.
+* The output is displayed on the screen
