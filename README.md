@@ -51,12 +51,12 @@ the wait() call to wait for the child process to complete before exiting
 the program. Perform necessary error checking to ensure that a positive
 integer is passed on the command line
 ***
-**Outputs**
-<br/>
-![Image text](https://github.com/vivek0153/CS252_ASSIGNMENT/blob/main/q1.jpg)
 <br />**Steps to run the program**
 <br />
 * Open the terminal and navigate to the directory where the file q2.c is present.
 * Then enter ./a.out (executable file).
 * Enter the details which are asked in terminal.
 * The output is displayed on the screen
+**Outputs**
+<br/>
+![Image text](https://github.com/vivek0153/CS252_ASSIGNMENT/blob/main/q2.jpg)
