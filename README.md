@@ -21,7 +21,6 @@ the parent thread will output the values once the workers have exited.
 * Enter the details which are asked in terminal.
 * The output is displayed on the screen
 ***
-<br />
 **Outputs**
 
 
