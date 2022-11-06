@@ -25,5 +25,5 @@ the parent thread will output the values once the workers have exited.
 <br/>
 ![Image text](https://github.com/vivek0153/CS252_ASSIGNMENT/blob/main/q1.jpg)
 ***
-**QUESTION 2**
+***QUESTION 2***
 
