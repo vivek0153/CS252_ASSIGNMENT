@@ -1,5 +1,5 @@
 # **Steps to run the program** #
-<br />
+
 * Open the terminal and navigate to the directory where the file q1.c is present.
 * <code>gcc q1.c</code>
 * <code>./a.out</code>
