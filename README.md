@@ -19,7 +19,7 @@ the parent thread will output the values once the workers have exited.
 <br />**Steps to run the program**
 <br />
 * Open the terminal and navigate to the directory where the file q1.c is present.
-* gcc serial_pi.c -o serial_pi.o
+* gcc q1.c
 * Command     ./a.out
 * Then enter ./a.out (executable file).
 * Enter the details which are asked in terminal.
@@ -56,8 +56,8 @@ integer is passed on the command line
 <br />**Steps to run the program**
 <br />
 * Open the terminal and navigate to the directory where the file q2.c is present.
-* Command     gcc q2.c
-* Command     ./a.out
+* <code>gcc q2.c<code>
+* <code>./a.out<code>
 * Then enter ./a.out (executable file).
 * Enter the details which are asked in terminal.
 * The output is displayed on the screen
