@@ -10,3 +10,7 @@
 ## **Outputs** ##
 
 ![Image text](https://github.com/vivek0153/CS252_ASSIGNMENT/blob/main/Q-4.22/q1.jpg)
+
+## **Reference** ##
+* The above code is taken from this repository
+* https://gist.github.com/Jabiribn/e58bf13c678953891900e5f982b48037
