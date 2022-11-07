@@ -16,19 +16,7 @@ determine the maximum value, and the third will determine the minimum value. For
 <br />The variables representing the average, minimum, and maximum values
 will be stored globally. The worker threads will set these values, and
 the parent thread will output the values once the workers have exited.
-***
-<br />**Steps to run the program**
-<br />
-* Open the terminal and navigate to the directory where the file q1.c is present.
-* <code>gcc q1.c</code>
-* <code>./a.out</code>
-* Then enter ./a.out (executable file).
-* Enter the details which are asked in terminal.
-* The output is displayed on the screen
-***
-**Outputs**
-<br/>
-![Image text](https://github.com/vivek0153/CS252_ASSIGNMENT/blob/main/q1.jpg)
+
 ***
 ***QUESTION 2***
 <br/>
@@ -53,16 +41,4 @@ necessary for the child to output the sequence. Have the parent invoke
 the wait() call to wait for the child process to complete before exiting
 the program. Perform necessary error checking to ensure that a positive
 integer is passed on the command line
-***
-<br />**Steps to run the program**
-<br />
-* Open the terminal and navigate to the directory where the file q2.c is present.
-* <code>gcc q2.c</code>
-* <code>./a.out</code>
-* Then enter ./a.out (executable file).
-* Enter the details which are asked in terminal.
-* The output is displayed on the screen
-***
-**Outputs**
-<br/>
-![Image text](https://github.com/vivek0153/CS252_ASSIGNMENT/blob/main/q2.jpg)
+
