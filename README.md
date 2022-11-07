@@ -19,7 +19,7 @@ the parent thread will output the values once the workers have exited.
 <br />**Steps to run the program**
 <br />
 * Open the terminal and navigate to the directory where the file q1.c is present.
-* Command     gcc q1.c
+* gcc serial_pi.c -o serial_pi.o
 * Command     ./a.out
 * Then enter ./a.out (executable file).
 * Enter the details which are asked in terminal.
