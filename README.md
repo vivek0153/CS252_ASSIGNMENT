@@ -21,7 +21,7 @@ the parent thread will output the values once the workers have exited.
 ***QUESTION 2***
 <br/>
 <a href="https://github.com/vivek0153/CS252_ASSIGNMENT/tree/main/Q-3.21">Question 2: Chapter 3- 3.21</a>
-The Collatz conjecture concerns what happens when we take any positive integer n and apply the following algorithm:
+<br/>The Collatz conjecture concerns what happens when we take any positive integer n and apply the following algorithm:
 <br/>
 n =
 <br/>
