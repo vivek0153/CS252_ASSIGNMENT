@@ -6,7 +6,7 @@
 * Then enter ./a.out (executable file).
 * Enter the details which are asked in terminal.
 * The output is displayed on the screen
-***
+
 ## **Outputs** ##
 <br/>
 ![Image text](https://github.com/vivek0153/CS252_ASSIGNMENT/blob/main/Q-3.21/q2.jpg)
