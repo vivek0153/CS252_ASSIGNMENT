@@ -1,8 +1,9 @@
 # CS252_ASSIGNMENT
 ***
 ***QUESTION 1:***
+
 <br/>
-<b>4.22</b>
+<a href="https://github.com/vivek0153/CS252_ASSIGNMENT/tree/main/Q-4.22">Question 1: Chapter 4- 4.22</a>
 <br />Write a multithreaded program that calculates various statistical values
 for a list of numbers. This program will be passed a series of numbers
 on the command line and will then create three separate worker threads.
